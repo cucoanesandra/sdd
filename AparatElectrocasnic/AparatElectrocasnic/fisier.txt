@@ -1,0 +1,31 @@
+10
+13.99 frigider
+Samsung 
+5
+16.99 aragaz
+beko 
+3
+8.44 fier de calcat
+phillips
+6
+19.99 combina frigorifica
+whirpool
+10
+54.33 aspirator
+dyson
+3
+12.64 toaster
+delimano
+4
+43.32 cuptor cu microunde
+samsung
+0
+49.66 dozator de apa
+electrolux
+8
+76.99 plita electrica
+beko
+3
+12.99 masina popcorn
+delimano
+2

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Andra\Desktop\exercitiu_2021\Platforma\Platforma\Source.cpp(218,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Andra\Desktop\exercitiu_2021\Platforma\Platforma\Source.cpp(244,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  Platforma.vcxproj -> C:\Users\Andra\Desktop\exercitiu_2021\Platforma\Debug\Platforma.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Andra\Desktop\exercitiu_2021\AparatElectrocasnic\AparatElectrocasnic\Source.cpp(286,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Andra\Desktop\exercitiu_2021\AparatElectrocasnic\AparatElectrocasnic\Source.cpp(123): warning C4715: 'stergeNod_recursiv': not all control paths return a value
+  AparatElectrocasnic.vcxproj -> C:\Users\Andra\Desktop\exercitiu_2021\AparatElectrocasnic\Debug\AparatElectrocasnic.exe

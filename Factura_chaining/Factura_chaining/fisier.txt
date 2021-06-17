@@ -1,0 +1,11 @@
+10
+15 Apa PopPop 34.99 30
+32 Gaze IonIon 53.23 24
+41 Lumina IonescuIon 78.43 7
+4 Internet DanAna 34.99 9
+71 Telefon LaurAndrei 75.33 18
+38 Internet Andra 88.66 10
+11 Apa Lala 100.23 5
+55 Lumina DaAnaMaria 12.34 8
+29 Lumina GeorgePop 63.34 2
+51 Apa LucaMatei 291.33 1

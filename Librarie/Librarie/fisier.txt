@@ -1,0 +1,11 @@
+10
+100 Librarie1 345
+110 Librarie2 453
+120 Librarie3 472
+130 Librarie4 572
+140 Librarie5 902
+150 Librarie6 1200
+160 Librarie7 923
+170 Librarie8 670
+180 Librarie9 891
+190 Librarie10 583

@@ -1,0 +1,21 @@
+10
+100 5 9.40 Structuri de date
+Ion Ion
+101 3 7.33 Cercetari oop 
+Maria Lala
+105 5 6 Educatie fizica
+Ionut Paul
+119 5 7.44 Lalala laalal
+tgreh rheie
+234 4 1.00 B C B
+Dan dan
+422 6 9.10 Analiza datelor
+Laur laur
+972 5 4.24 CTS
+Zamfi Alin
+529 8 5.45 Android
+Ala bala
+353 6 8.45 Android
+Portocala
+653 4 3.21 SIE
+Nu mai stiu

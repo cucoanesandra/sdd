@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Andra\Desktop\exercitiu_2021\Factura\Factura\Source.cpp(257,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Andra\Desktop\exercitiu_2021\Factura\Factura\Source.cpp(147): warning C4715: 'extragere_heap': not all control paths return a value
+C:\Users\Andra\Desktop\exercitiu_2021\Factura\Factura\Source.cpp(217): warning C4715: 'copiereInLista': not all control paths return a value
+  Factura.vcxproj -> C:\Users\Andra\Desktop\exercitiu_2021\Factura\Debug\Factura.exe

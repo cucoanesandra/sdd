@@ -1,0 +1,33 @@
+16
+140 4 SIE
+42 8
+110 3 Analiza datelor
+34 9
+130 6 CTS
+21 7
+160 4 Android
+79 4
+140 3 PAW
+21 6
+150 5 Analiza datelor
+98 3
+130 6 SIE
+87 5
+170 4 PAW
+23 10
+120 5 SDD
+12 9
+180 3 Android
+82 9
+100 5 BTI
+34 7
+250 1 Sport
+44 3
+220 5 BTI
+79 8
+230 5 SDD
+42 7
+200 5 BTI
+12 5
+210 6 CTS
+42 8

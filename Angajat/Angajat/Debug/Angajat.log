@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Andra\Desktop\exercitiu_2021\Angajat\Angajat\Source.cpp(302,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Andra\Desktop\exercitiu_2021\Angajat\Angajat\Source.cpp(223): warning C4715: 'inserare_nod': not all control paths return a value
+  Angajat.vcxproj -> C:\Users\Andra\Desktop\exercitiu_2021\Angajat\Debug\Angajat.exe

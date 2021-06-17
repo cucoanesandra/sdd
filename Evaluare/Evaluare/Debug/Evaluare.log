@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Andra\Desktop\exercitiu_2021\Evaluare\Evaluare\Source.cpp(200): warning C4715: 'stergere_student_circulara': not all control paths return a value
+C:\Users\Andra\Desktop\exercitiu_2021\Evaluare\Evaluare\Source.cpp(236): warning C4715: 'stergere_element': not all control paths return a value
+  Evaluare.vcxproj -> C:\Users\Andra\Desktop\exercitiu_2021\Evaluare\Debug\Evaluare.exe

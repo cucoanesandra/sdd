@@ -1,0 +1,11 @@
+10
+10 5 4000.33 Pop Vanzari
+13 2 2445.33 Ana Marketing
+65 7 6653.43 Ion Conducere
+32 15 4732.01 Lola IT
+11 0 2340.11 Maria Vanzari
+69 9 6482.00 Andrei IT
+21 3 1300.33 George Marketing
+42 4 3626.99 Laura HR
+64 7 5930.11 Victor HR
+16 10 7772.23 Ioana Conducere
